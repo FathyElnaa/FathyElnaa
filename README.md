@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fathy Elnaa</h1>
+<h3 align="center">A Passionate Backend Developer (Laravel | PHP)</h3>
 
-<!--
-**FathyElnaa/FathyElnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Building full backend systems using **Laravel (OOP, MVC, Sanctum)**
+- 🧩 Interested in **API Development**, **Authentication**, and **Realtime Apps**
+- 🌱 Currently learning **React** and **WebSocket**
+- ⚡ Love solving backend problems and optimizing performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+| Category | Tools |
+|-----------|--------|
+| **Languages** | PHP, JavaScript, SQL |
+| **Frameworks** | Laravel, Livewire |
+| **Database** | MySQL, SQLite |
+| **Auth** | Sanctum, Session-based |
+| **Tools** | Git, Composer, Postman, VS Code |
+
+---
+
+### 🧰 My Projects
+- 🩺 **Clinic Management System** — Laravel OOP + CRUD + Roles  
+- 🛒 **E-Commerce Dashboard** — Admin Panel, Products, Orders  
+- 📆 **Appointment System** — Realtime Booking + Sanctum API  
+
+---
+
+### 📫 Contact Me
+- 📧 **Email:** your_email@example.com  
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+- 🧑‍💻 **GitHub:** [github.com/FathyElnaa](https://github.com/FathyElnaa)
+
+---
+
+⭐ _"Code with logic, design with clarity."_
