@@ -30,8 +30,8 @@
 ---
 
 ### 📫 Contact Me
-- 📧 **Email:** your_email@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+- 📧 **Email:** fathyelnaa5@gmail.com  
+- 💼 **LinkedIn:** [www.linkedin.com/in/fathy-elnaa]
 - 🧑‍💻 **GitHub:** [github.com/FathyElnaa](https://github.com/FathyElnaa)
 
 ---
