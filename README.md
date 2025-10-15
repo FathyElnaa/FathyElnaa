@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 💻 Building full backend systems using **Laravel (OOP, MVC, Sanctum)**
-- 🧩 Interested in **API Development**, **Authentication**, and **Realtime Apps**
+- 🧩 Interested in **API Development**, **Authentication**
 - 🌱 Currently learning **React** and **WebSocket**
 - ⚡ Love solving backend problems and optimizing performance
 
@@ -25,7 +25,7 @@
 ### 🧰 My Projects
 - 🩺 **Clinic Management System** — Laravel OOP + CRUD + Roles  
 - 🛒 **E-Commerce Dashboard** — Admin Panel, Products, Orders  
-- 📆 **Appointment System** — Realtime Booking + Sanctum API  
+- 📆 **Appointment System** — Sanctum API  
 
 ---
 
@@ -36,4 +36,17 @@
 
 ---
 
+![Fathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FathyElnaa&show_icons=true&theme=tokyonight)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FathyElnaa&layout=compact&theme=tokyonight)
+
+---
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 ⭐ _"Code with logic, design with clarity."_
