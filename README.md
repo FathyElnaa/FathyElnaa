@@ -10,30 +10,7 @@
 
 ---
 
-### 🛠️ Tech Stack
-| Category | Tools |
-|-----------|--------|
-| **Languages** | PHP, SQL |
-| **Frameworks** | Laravel, Livewire |
-| **Database** | MySQL |
-| **Auth** | Sanctum, Session-based |
-| **Tools** | Git, Composer, Postman, VS Code |
-
----
-
-### 🧰 My Projects
-- 🩺 **Clinic Management System** — Laravel OOP + CRUD + Roles  
-- 🛒 **E-Commerce Dashboard** — Admin Panel, Products, Orders  
-- 📆 **Appointment System** — Sanctum API  
-
----
-
-### 📫 Contact Me
-- 📧 **Email:** fathyelnaa5@gmail.com  
-- 💼 **LinkedIn:** [www.linkedin.com/in/fathy-elnaa]
-- 🧑‍💻 **GitHub:** [github.com/FathyElnaa](https://github.com/FathyElnaa)
-
----
+### 🛠️ Tech Stack & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -57,4 +34,19 @@
 
 
 ---
+
+### 🧰 My Projects
+- 🩺 **Clinic Management System** — Laravel OOP + CRUD + Roles  
+- 🛒 **E-Commerce Dashboard** — Admin Panel, Products, Orders  
+- 📆 **Appointment System** — Sanctum API  
+
+---
+
+### 📫 Contact Me
+- 📧 **Email:** fathyelnaa5@gmail.com  
+- 💼 **LinkedIn:** [www.linkedin.com/in/fathy-elnaa]
+- 🧑‍💻 **GitHub:** [github.com/FathyElnaa](https://github.com/FathyElnaa)
+
+---
+
 ⭐ _"Code with logic, design with clarity."_
