@@ -6,7 +6,6 @@
 ### 🚀 About Me
 - 💻 Building full backend systems using **Laravel (OOP, MVC, Sanctum)**
 - 🧩 Interested in **API Development**, **Authentication**
-- 🌱 Currently learning **React** and **WebSocket**
 - ⚡ Love solving backend problems and optimizing performance
 
 ---
@@ -14,9 +13,9 @@
 ### 🛠️ Tech Stack
 | Category | Tools |
 |-----------|--------|
-| **Languages** | PHP, JavaScript, SQL |
+| **Languages** | PHP, SQL |
 | **Frameworks** | Laravel, Livewire |
-| **Database** | MySQL, SQLite |
+| **Database** | MySQL |
 | **Auth** | Sanctum, Session-based |
 | **Tools** | Git, Composer, Postman, VS Code |
 
@@ -33,14 +32,6 @@
 - 📧 **Email:** fathyelnaa5@gmail.com  
 - 💼 **LinkedIn:** [www.linkedin.com/in/fathy-elnaa]
 - 🧑‍💻 **GitHub:** [github.com/FathyElnaa](https://github.com/FathyElnaa)
-
----
-
-![Fathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FathyElnaa&show_icons=true&theme=tokyonight)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FathyElnaa&layout=compact&theme=tokyonight)
 
 ---
 
